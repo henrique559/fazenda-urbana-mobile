@@ -1,0 +1,7 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>      <!-- Cor principal -->
+    <color name="colorPrimaryDark">#3700B3</color>  <!-- Cor escura principal -->
+    <color name="colorAccent">#A9A9A9</color>       <!-- Cor de destaque -->
+    <color name="white">#FFFFFF</color>             <!-- Cor branca -->
+    <color name="darkGray">#A9A9A9</color>          <!-- Cor cinza escuro -->
+</resources>
